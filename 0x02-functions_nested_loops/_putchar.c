@@ -1,6 +1,6 @@
 
 #include <unistd.h>
-#include "alxse.h"
+#include "main.h"
 
 /**
  * _putchar - writes the character c to stdout

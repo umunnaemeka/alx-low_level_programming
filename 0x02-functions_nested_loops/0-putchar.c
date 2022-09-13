@@ -1,4 +1,4 @@
-#include "alxse.h"
+#include "main.h"
 
 /**
  * main - Prints AlxSE as a message.
