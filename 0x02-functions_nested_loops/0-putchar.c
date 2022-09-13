@@ -1,8 +1,7 @@
-#include <stdlib.h>
-#include "ALX.h"
+#include "alxse.h"
 
 /**
- * main - Prints ALX as a message.
+ * main - Prints AlxSE as a message.
  *
  * Return: Always 0 (Success)
  */
@@ -19,3 +18,4 @@ int main(void)
 	_putchar('\n');
 	return (0);
 }
+
