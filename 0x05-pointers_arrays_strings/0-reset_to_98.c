@@ -6,7 +6,7 @@
  * updates the value it points to , to 98
  * @n: an integer pointer that stores the address argument
  * Retun: returns nothing
- * /
+ */
   void reset_to_98 (int  *n)
   
   {
