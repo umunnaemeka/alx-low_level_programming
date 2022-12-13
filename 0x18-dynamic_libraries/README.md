@@ -1,6 +1,6 @@
 # Dynamic libraries
 
-Project done during **Full Stack Software Engineering studies** at **Holberton School**. It aims to learn about dynamic and shared libraries in **C language**.
+Project done during **Full Stack Software Engineering studies** at **ALX Software Engineering School**. It aims to learn about dynamic and shared libraries in **C language**.
 
 ## Technologies
 * Scripts written in Bash 4.3.11(1)
